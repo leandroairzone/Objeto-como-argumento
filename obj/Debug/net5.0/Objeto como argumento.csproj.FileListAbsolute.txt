@@ -1,0 +1,16 @@
+C:\Users\Leandro\Desktop\Objeto como argumento\obj\Debug\net5.0\Objeto como argumento.csprojAssemblyReference.cache
+C:\Users\Leandro\Desktop\Objeto como argumento\obj\Debug\net5.0\Objeto como argumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\Objeto como argumento\obj\Debug\net5.0\Objeto como argumento.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Objeto como argumento\obj\Debug\net5.0\Objeto como argumento.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Objeto como argumento\obj\Debug\net5.0\Objeto como argumento.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Objeto como argumento\bin\Debug\net5.0\Objeto como argumento.exe
+C:\Users\Leandro\Desktop\Objeto como argumento\bin\Debug\net5.0\Objeto como argumento.deps.json
+C:\Users\Leandro\Desktop\Objeto como argumento\bin\Debug\net5.0\Objeto como argumento.runtimeconfig.json
+C:\Users\Leandro\Desktop\Objeto como argumento\bin\Debug\net5.0\Objeto como argumento.runtimeconfig.dev.json
+C:\Users\Leandro\Desktop\Objeto como argumento\bin\Debug\net5.0\Objeto como argumento.dll
+C:\Users\Leandro\Desktop\Objeto como argumento\bin\Debug\net5.0\ref\Objeto como argumento.dll
+C:\Users\Leandro\Desktop\Objeto como argumento\bin\Debug\net5.0\Objeto como argumento.pdb
+C:\Users\Leandro\Desktop\Objeto como argumento\obj\Debug\net5.0\Objeto como argumento.dll
+C:\Users\Leandro\Desktop\Objeto como argumento\obj\Debug\net5.0\ref\Objeto como argumento.dll
+C:\Users\Leandro\Desktop\Objeto como argumento\obj\Debug\net5.0\Objeto como argumento.pdb
+C:\Users\Leandro\Desktop\Objeto como argumento\obj\Debug\net5.0\Objeto como argumento.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Objeto como argumento/1.0.0": {
+        "runtime": {
+          "Objeto como argumento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Objeto como argumento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
